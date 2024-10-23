@@ -30,7 +30,7 @@ conda env create -f environment.yml
 - [Data pre-processing](https://github.com/loooooooopi/PreMet/blob/main/Reproducibility/data_preprocessing.ipynb)
 - [Baseline model1: PreMet-DNN](https://github.com/loooooooopi/PreMet/blob/main/Reproducibility/Baseline1%20PreMet-DNN.ipynb)
 - [Baseline model2: PreMet-Multi](https://github.com/loooooooopi/PreMet/blob/main/Reproducibility/Baseline2%20PreMet-Multi.ipynb)
-- [PreMet-VAE](https://github.com/loooooooopi/PreMet/blob/main/Reproducibility/PreMet-VAE.ipynb)
+- [PreMet-VAE (main model)](https://github.com/loooooooopi/PreMet/blob/main/Reproducibility/PreMet-VAE.ipynb)
 - [Gradient-based feature prioritization]()
 
 
@@ -38,6 +38,6 @@ conda env create -f environment.yml
 
 Train on new data and predict for new sample following notebooks:
 
-Train model on new data: []()
+Train PreMet on new data: [train new model](https://github.com/loooooooopi/PreMet/blob/main/train_new_data.ipynb)
 
 Predict metasistas site: []()
