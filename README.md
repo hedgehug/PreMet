@@ -40,4 +40,4 @@ Train on new data and predict for new sample following notebooks:
 
 Train PreMet on new data: [train new model](https://github.com/loooooooopi/PreMet/blob/main/train_new_data.ipynb)
 
-Predict metasistas site: []()
+Predict metasistas site: [predict metastasis](https://github.com/loooooooopi/PreMet/blob/main/predict_metastasis.ipynb)
