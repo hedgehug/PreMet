@@ -37,8 +37,6 @@ The trained best models were provided in [Reproducibility](https://github.com/lo
 
 ***
 
-Train on new data and predict for new sample following notebooks:
+## Train on new data and predict for new samples
 
-Train PreMet on new data: [train new model](https://github.com/loooooooopi/PreMet/blob/main/train_new_data.ipynb)
-
-Predict metasistas site: [predict metastasis](https://github.com/loooooooopi/PreMet/blob/main/predict_metastasis.ipynb)
+Tutorials are provided in: [train new model](https://github.com/loooooooopi/PreMet/blob/main/train_new_data.ipynb)
