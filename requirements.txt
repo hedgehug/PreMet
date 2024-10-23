@@ -274,4 +274,3 @@ dependencies:
       - statsmodels==0.14.0
       - toml==0.10.2
       - tzdata==2023.3
-prefix: /home/wang3712/.conda/envs/cent7/2020.11-py38/gears

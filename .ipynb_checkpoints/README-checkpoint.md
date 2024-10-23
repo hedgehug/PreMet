@@ -21,10 +21,7 @@ Required packages:
 To directly create a Conda enviroment for PreMet, please run
 
 ```
-{
 conda env create -f environment.yml
-
-}
 ```
 ***
 
