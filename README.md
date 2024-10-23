@@ -31,8 +31,9 @@ conda env create -f environment.yml
 - [Baseline model1: PreMet-DNN](https://github.com/loooooooopi/PreMet/blob/main/Reproducibility/Baseline1%20PreMet-DNN.ipynb)
 - [Baseline model2: PreMet-Multi](https://github.com/loooooooopi/PreMet/blob/main/Reproducibility/Baseline2%20PreMet-Multi.ipynb)
 - [PreMet-VAE (main model)](https://github.com/loooooooopi/PreMet/blob/main/Reproducibility/PreMet-VAE.ipynb)
-- [Gradient-based feature prioritization]()
+- [Gradient-based feature prioritization](https://github.com/loooooooopi/PreMet/blob/main/Reproducibility/Gradient-based%20feature%20selection%20and%20pathway%20analysis.ipynb)
 
+The trained best models were provided in [Reproducibility](https://github.com/loooooooopi/PreMet/blob/main/Reproducibility/) in tar.gz for each model.
 
 ***
 
